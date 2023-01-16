@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.banner{
+    padding: 7rem 10rem;
+}
+
+.banner h3{
+    font-size: 2.5rem;
+}
+
+.banner h1{
+text-transform: uppercase;
+width: 75%;
+font-weight: bold;
+font-size: 5rem;
+}
+
+.box{
+    padding: 1rem;
+    width: 60%;
+    border: 3px solid black;
+    font-size: 20px;
+}
+
+main section h2{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.banner p{
+    font-size: 20px;
+}
+
